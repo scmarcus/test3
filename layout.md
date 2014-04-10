@@ -1,0 +1,6 @@
+abstract.tex
+Die_LangmuirIsotherm.tex
+figures/langmuir_fig/default_figure.png
+Abbildung_1_zeigt_di.tex
+figures/langmuir_fig_lin/default_figure.png
+Aus_der_linearen_Dar.tex
